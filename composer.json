@@ -1,0 +1,19 @@
+{
+    "name": "zacksleo/suning-sdk",
+    "description": "苏宁SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zacksleo",
+            "email": "zacksleo@gmail.com"
+        }
+    ],
+    "require": {
+        "hanson/foundation-sdk": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zacksleo\\SuningSdk\\": "src"
+        }
+    }
+}
