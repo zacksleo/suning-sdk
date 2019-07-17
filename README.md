@@ -51,7 +51,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-### 文艺调用方式
+### 2.4 文艺调用方式
 
 ```php
     $response = $suning->custom->logisticcompany->get([
