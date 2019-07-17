@@ -11,7 +11,66 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ## Usage
 
-TODO
+### 初始化客户端
+
+```php
+    $suning = new Suning([
+        'key' => 'appkey',
+        'secret'=> 'appsecret',
+        'debug' => true,
+        'file' => __DIR__.'/suning.log',
+        'level'      => 'debug',
+        'permission' => 0777,
+    ]);
+
+```
+
+### 标准调用方式
+
+```php
+    $response = $suning->request([
+        'suning.custom.logisticcompany.get' => 'logisticCompany'
+    ], [
+        'companyName'=>'申通快递',
+    ]);
+```
+
+### 简化调用方式
+
+```php
+    $response = $suning->request('suning.custom.logisticcompany.get', [
+        'companyName'=>'申通快递',
+    ]);
+```
+
+### 简化调用方式二
+
+```php
+    $response = $suning->request('custom.logisticcompany.get', [
+        'companyName'=>'申通快递',
+    ]);
+```
+
+### 文艺调用方式
+
+```php
+    $response = $suning->custom->logisticcompany->get([
+        'companyName'=>'申通快递',
+    ]);
+
+```
+
+### 输出格式
+
+```bash
+array:1 [
+  "sn_body" => array:1 [
+    "logisticCompany" => array:2 [
+      "expressCompanyName" => "申通快递"
+      "expressCompanyCode" => "S01"
+    ]
+  ]
+]
 
 ## Contributing
 
