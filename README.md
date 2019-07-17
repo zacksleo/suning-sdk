@@ -60,6 +60,8 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```
 
+> 注意：除标准调用方式外，其他调用方式需要确保 map.php 文件中存在对应的值。如果没有，欢迎PR.
+
 ### 输出格式
 
 ```bash
