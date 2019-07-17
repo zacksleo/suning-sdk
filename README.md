@@ -11,7 +11,7 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ## Usage
 
-### 初始化客户端
+### 1. 初始化客户端
 
 ```php
     $suning = new Suning([
@@ -25,7 +25,7 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```
 
-### 标准调用方式
+### 2.1 标准调用方式
 
 ```php
     $response = $suning->request([
@@ -35,7 +35,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-### 简化调用方式
+### 2.2 简化调用方式
 
 ```php
     $response = $suning->request('suning.custom.logisticcompany.get', [
@@ -43,7 +43,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-### 简化调用方式二
+### 2.3 简化调用方式二
 
 ```php
     $response = $suning->request('custom.logisticcompany.get', [
