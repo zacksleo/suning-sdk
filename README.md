@@ -14,12 +14,15 @@ $ composer require zacksleo/suning-sdk -vvv
 ### 1. 初始化客户端
 
 ```php
+
+    use Zacksleo\SuningSdk\Suning;
+
     $suning = new Suning([
         'key'        => 'key',
         'secret'     => 'secret',
         'debug'      => false,
         'file'       => __DIR__.'/suning.log',
-        'level'      => 'debug',
+        'level'      => 'error',
         'permission' => 0777,
     ]);
 
@@ -35,7 +38,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-> 其中，第一个参数数组中，key 为 ApiMethodName, value 为 BizName
+> 其中，第一个参数数组中，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
 
 ### 2.2 简化调用方式
 
@@ -66,6 +69,8 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ### 输出格式
 
+返回值取出的是 sn_body 及其值
+
 ```bash
 array:1 [
   "sn_body" => array:1 [
@@ -75,6 +80,26 @@ array:1 [
     ]
   ]
 ]
+
+```
+
+### 异常处理
+
+ 总共会抛出两种错误
+
+```php
+
+    try {
+        $response = $suning->request('custom.logisticcompany.get', [
+            'companyName' => '申通快递',
+        ]);
+    } catch (\Zacksleo\SuningSdk\SuningException $exception) {
+        //苏宁返回错误
+        $exception->getMessage();
+    } catch (\Hanson\Foundation\Exception\HttpException $exception) {
+        //Http 请求发生错误
+        $exception->getMessage();
+    }
 
 ```
 
