@@ -15,10 +15,10 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```php
     $suning = new Suning([
-        'key' => 'appkey',
-        'secret'=> 'appsecret',
-        'debug' => true,
-        'file' => __DIR__.'/suning.log',
+        'key'        => 'key',
+        'secret'     => 'secret',
+        'debug'      => false,
+        'file'       => __DIR__.'/suning.log',
         'level'      => 'debug',
         'permission' => 0777,
     ]);
@@ -31,15 +31,17 @@ $ composer require zacksleo/suning-sdk -vvv
     $response = $suning->request([
         'suning.custom.logisticcompany.get' => 'logisticCompany'
     ], [
-        'companyName'=>'申通快递',
+        'companyName' => '申通快递',
     ]);
 ```
+
+> 其中，第一个参数数组中，key 为 ApiMethodName, value 为 BizName
 
 ### 2.2 简化调用方式
 
 ```php
     $response = $suning->request('suning.custom.logisticcompany.get', [
-        'companyName'=>'申通快递',
+        'companyName' => '申通快递',
     ]);
 ```
 
@@ -47,7 +49,7 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```php
     $response = $suning->request('custom.logisticcompany.get', [
-        'companyName'=>'申通快递',
+        'companyName' => '申通快递',
     ]);
 ```
 
@@ -55,7 +57,7 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```php
     $response = $suning->custom->logisticcompany->get([
-        'companyName'=>'申通快递',
+        'companyName' => '申通快递',
     ]);
 
 ```
