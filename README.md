@@ -28,7 +28,18 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```
 
-### 2.1 标准调用方式
+### 2.1 链式调用方式
+
+> 该方式支持类型提示和自动补全
+
+```php
+    $response = $suning->custom->logisticcompany->get([
+        'companyName' => '申通快递',
+    ]);
+
+```
+
+### 2.2 标准调用方式
 
 ```php
     $response = $suning->request([
@@ -40,7 +51,7 @@ $ composer require zacksleo/suning-sdk -vvv
 
 > 其中，第一个参数为数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
 
-### 2.2 简化调用方式
+以上调用可省略为
 
 ```php
     $response = $suning->request('suning.custom.logisticcompany.get', [
@@ -48,23 +59,12 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-### 2.3 简化调用方式二
+ 或
 
 ```php
     $response = $suning->request('custom.logisticcompany.get', [
         'companyName' => '申通快递',
     ]);
-```
-
-### 2.4 链式调用方式
-
-> 该方式支持类型提示和自动补全
-
-```php
-    $response = $suning->custom->logisticcompany->get([
-        'companyName' => '申通快递',
-    ]);
-
 ```
 
 > 注意：除标准调用方式外，其他调用方式需要确保 [map.php](https://github.com/zacksleo/suning-sdk/blob/master/src/map.php) 文件中存在对应的值。如果没有，欢迎PR.
