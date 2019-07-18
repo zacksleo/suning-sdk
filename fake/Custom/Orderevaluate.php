@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Orderevaluate;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Orderevaluate Class

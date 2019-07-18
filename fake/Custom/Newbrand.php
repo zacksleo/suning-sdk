@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Newbrand;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Newbrand Class

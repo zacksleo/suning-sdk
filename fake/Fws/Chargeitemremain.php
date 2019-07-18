@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fws\Chargeitemremain;
+namespace Zacksleo\SuningSdk\Fake\Fws;
 
 /**
  * Chargeitemremain Class

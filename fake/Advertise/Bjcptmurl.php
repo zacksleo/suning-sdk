@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Advertise\Bjcptmurl;
+namespace Zacksleo\SuningSdk\Fake\Advertise;
 
 /**
  * Bjcptmurl Class

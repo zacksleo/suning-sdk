@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydcmmdtypool;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydcmmdtypool Class

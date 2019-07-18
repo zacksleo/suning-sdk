@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Purchaseorder\Query;
+namespace Zacksleo\SuningSdk\Fake\Purchaseorder;
 
 /**
  * Query Class

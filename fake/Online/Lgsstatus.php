@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Lgsstatus;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Lgsstatus Class

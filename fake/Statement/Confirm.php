@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Statement\Confirm;
+namespace Zacksleo\SuningSdk\Fake\Statement;
 
 /**
  * Confirm Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Agentrecharge;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Agentrecharge Class

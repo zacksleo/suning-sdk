@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Delayrefund;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Delayrefund Class

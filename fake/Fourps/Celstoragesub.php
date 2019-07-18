@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Celstoragesub;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Celstoragesub Class

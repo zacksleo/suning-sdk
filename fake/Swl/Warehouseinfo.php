@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Swl\Warehouseinfo;
+namespace Zacksleo\SuningSdk\Fake\Swl;
 
 /**
  * Warehouseinfo Class

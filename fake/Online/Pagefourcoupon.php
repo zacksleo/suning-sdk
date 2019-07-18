@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Pagefourcoupon;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Pagefourcoupon Class

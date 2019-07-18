@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Disagreerefund;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Disagreerefund Class

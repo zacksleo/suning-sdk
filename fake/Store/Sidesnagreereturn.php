@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnagreereturn;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnagreereturn Class

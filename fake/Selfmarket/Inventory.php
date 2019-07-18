@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Inventory;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Inventory Class

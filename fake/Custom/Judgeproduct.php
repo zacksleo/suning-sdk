@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Judgeproduct;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Judgeproduct Class

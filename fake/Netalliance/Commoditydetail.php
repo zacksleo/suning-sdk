@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Commoditydetail;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Commoditydetail Class

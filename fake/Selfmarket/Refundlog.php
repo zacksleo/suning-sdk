@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Refundlog;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Refundlog Class

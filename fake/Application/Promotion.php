@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Application\Promotion;
+namespace Zacksleo\SuningSdk\Fake\Application;
 
 /**
  * Promotion Class

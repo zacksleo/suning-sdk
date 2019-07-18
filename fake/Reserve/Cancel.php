@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Reserve\Cancel;
+namespace Zacksleo\SuningSdk\Fake\Reserve;
 
 /**
  * Cancel Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Inverstmentcategoryid;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Inverstmentcategoryid Class

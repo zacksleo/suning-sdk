@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydareacity;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydareacity Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Activitycoupon;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Activitycoupon Class

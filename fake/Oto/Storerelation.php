@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Storerelation;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Storerelation Class

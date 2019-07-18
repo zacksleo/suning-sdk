@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Expensescheckorder;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Expensescheckorder Class

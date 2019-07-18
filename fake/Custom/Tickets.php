@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Tickets;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Tickets Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Commoditydetail;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Commoditydetail Class

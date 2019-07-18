@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Integrate\Childitem;
+namespace Zacksleo\SuningSdk\Fake\Integrate;
 
 /**
  * Childitem Class

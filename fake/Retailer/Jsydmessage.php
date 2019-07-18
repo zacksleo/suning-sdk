@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydmessage;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydmessage Class

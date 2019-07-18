@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Supply\Reorderdetail;
+namespace Zacksleo\SuningSdk\Fake\Supply;
 
 /**
  * Reorderdetail Class

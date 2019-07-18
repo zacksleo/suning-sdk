@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Realcelstorage;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Realcelstorage Class

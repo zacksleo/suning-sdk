@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Getperiodlimit;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Getperiodlimit Class

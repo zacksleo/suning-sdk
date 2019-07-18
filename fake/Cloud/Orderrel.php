@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Cloud\Orderrel;
+namespace Zacksleo\SuningSdk\Fake\Cloud;
 
 /**
  * Orderrel Class

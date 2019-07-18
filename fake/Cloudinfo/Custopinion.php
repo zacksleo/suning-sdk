@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Cloudinfo\Custopinion;
+namespace Zacksleo\SuningSdk\Fake\Cloudinfo;
 
 /**
  * Custopinion Class

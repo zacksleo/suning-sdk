@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Cloudinfo\Subaccount;
+namespace Zacksleo\SuningSdk\Fake\Cloudinfo;
 
 /**
  * Subaccount Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Logistdetail;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Logistdetail Class

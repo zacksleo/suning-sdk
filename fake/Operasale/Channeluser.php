@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Channeluser;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Channeluser Class

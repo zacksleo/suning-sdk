@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Stock;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Stock Class

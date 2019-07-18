@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Customercheck;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Customercheck Class

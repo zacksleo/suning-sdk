@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fws\Detectionform;
+namespace Zacksleo\SuningSdk\Fake\Fws;
 
 /**
  * Detectionform Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Mobilesequence;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Mobilesequence Class

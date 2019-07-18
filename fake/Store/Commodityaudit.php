@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Commodityaudit;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Commodityaudit Class

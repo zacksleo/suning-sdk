@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Rejectexchangedeliver;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Rejectexchangedeliver Class

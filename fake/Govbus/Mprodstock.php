@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Mprodstock;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Mprodstock Class

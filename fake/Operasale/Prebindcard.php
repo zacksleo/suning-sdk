@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Prebindcard;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Prebindcard Class

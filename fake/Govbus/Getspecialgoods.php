@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Getspecialgoods;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Getspecialgoods Class

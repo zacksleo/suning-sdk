@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesecassortappservice;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesecassortappservice Class

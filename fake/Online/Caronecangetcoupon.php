@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Caronecangetcoupon;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Caronecangetcoupon Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydbtborder;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydbtborder Class

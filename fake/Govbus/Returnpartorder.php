@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Returnpartorder;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Returnpartorder Class

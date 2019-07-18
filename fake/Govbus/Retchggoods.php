@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Retchggoods;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Retchggoods Class

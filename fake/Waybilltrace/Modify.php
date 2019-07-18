@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Waybilltrace\Modify;
+namespace Zacksleo\SuningSdk\Fake\Waybilltrace;
 
 /**
  * Modify Class

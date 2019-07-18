@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Storage;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Storage Class

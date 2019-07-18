@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Leaderorder;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Leaderorder Class

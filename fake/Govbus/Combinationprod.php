@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Combinationprod;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Combinationprod Class

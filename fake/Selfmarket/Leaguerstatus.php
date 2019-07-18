@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Leaguerstatus;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Leaguerstatus Class

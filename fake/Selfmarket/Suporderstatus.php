@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Suporderstatus;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Suporderstatus Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Complaint;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Complaint Class

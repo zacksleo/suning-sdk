@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Invorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Invorder Class

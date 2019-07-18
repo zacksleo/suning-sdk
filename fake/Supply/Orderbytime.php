@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Supply\Orderbytime;
+namespace Zacksleo\SuningSdk\Fake\Supply;
 
 /**
  * Orderbytime Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Membervatinvoiceregister;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Membervatinvoiceregister Class

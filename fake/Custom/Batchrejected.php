@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Batchrejected;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Batchrejected Class

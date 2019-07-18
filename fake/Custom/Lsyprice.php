@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Lsyprice;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Lsyprice Class

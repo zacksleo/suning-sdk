@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Ssprice;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Ssprice Class

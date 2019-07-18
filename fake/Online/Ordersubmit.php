@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Ordersubmit;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Ordersubmit Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Statementhtml\Get;
+namespace Zacksleo\SuningSdk\Fake\Statementhtml;
 
 /**
  * Get Class

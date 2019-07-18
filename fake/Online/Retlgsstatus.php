@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Retlgsstatus;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Retlgsstatus Class

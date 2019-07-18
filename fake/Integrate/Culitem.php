@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Integrate\Culitem;
+namespace Zacksleo\SuningSdk\Fake\Integrate;
 
 /**
  * Culitem Class

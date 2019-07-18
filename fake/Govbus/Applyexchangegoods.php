@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Applyexchangegoods;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Applyexchangegoods Class

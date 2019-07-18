@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Storearea;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Storearea Class

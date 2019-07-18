@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Settlementprice;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Settlementprice Class

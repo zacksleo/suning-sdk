@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Warehousepool;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Warehousepool Class

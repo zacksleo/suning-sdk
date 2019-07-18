@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Inventory;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Inventory Class

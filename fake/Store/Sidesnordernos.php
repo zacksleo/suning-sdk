@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnordernos;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnordernos Class

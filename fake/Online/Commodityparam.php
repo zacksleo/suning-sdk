@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Commodityparam;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Commodityparam Class

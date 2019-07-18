@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Rejectorder;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Rejectorder Class

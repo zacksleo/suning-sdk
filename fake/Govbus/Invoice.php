@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Invoice;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Invoice Class

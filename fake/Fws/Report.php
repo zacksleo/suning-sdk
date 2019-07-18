@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fws\Report;
+namespace Zacksleo\SuningSdk\Fake\Fws;
 
 /**
  * Report Class

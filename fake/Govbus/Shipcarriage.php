@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Shipcarriage;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Shipcarriage Class

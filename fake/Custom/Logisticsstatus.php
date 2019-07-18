@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Logisticsstatus;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Logisticsstatus Class

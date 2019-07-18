@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Superext\Paidsuper;
+namespace Zacksleo\SuningSdk\Fake\Superext;
 
 /**
  * Paidsuper Class

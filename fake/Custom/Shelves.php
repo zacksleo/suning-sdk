@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Shelves;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Shelves Class

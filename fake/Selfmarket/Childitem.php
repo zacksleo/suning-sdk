@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Childitem;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Childitem Class

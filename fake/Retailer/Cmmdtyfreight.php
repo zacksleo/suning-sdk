@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Cmmdtyfreight;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Cmmdtyfreight Class

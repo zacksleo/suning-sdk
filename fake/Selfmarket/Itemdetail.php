@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Itemdetail;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Itemdetail Class

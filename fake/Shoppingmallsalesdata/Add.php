@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Shoppingmallsalesdata\Add;
+namespace Zacksleo\SuningSdk\Fake\Shoppingmallsalesdata;
 
 /**
  * Add Class

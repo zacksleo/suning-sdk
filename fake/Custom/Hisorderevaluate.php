@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Hisorderevaluate;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Hisorderevaluate Class

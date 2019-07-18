@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Warepooldistrictaging;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Warepooldistrictaging Class

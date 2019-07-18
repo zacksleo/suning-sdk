@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Preoccupyphnum;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Preoccupyphnum Class

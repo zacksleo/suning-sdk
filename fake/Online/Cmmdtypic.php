@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Cmmdtypic;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Cmmdtypic Class

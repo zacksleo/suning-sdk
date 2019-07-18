@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Snservice;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Snservice Class

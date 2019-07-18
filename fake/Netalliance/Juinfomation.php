@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Juinfomation;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Juinfomation Class

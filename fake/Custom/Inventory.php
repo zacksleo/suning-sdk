@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Inventory;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Inventory Class

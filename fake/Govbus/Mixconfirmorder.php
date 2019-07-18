@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Mixconfirmorder;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Mixconfirmorder Class

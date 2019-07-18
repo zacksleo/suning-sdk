@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Memlabels;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Memlabels Class

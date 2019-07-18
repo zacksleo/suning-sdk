@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Refundordersync;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Refundordersync Class

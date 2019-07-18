@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Otoinfo;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Otoinfo Class

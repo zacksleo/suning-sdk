@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Rejectorder;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Rejectorder Class

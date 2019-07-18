@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Advertise\Bjcpm;
+namespace Zacksleo\SuningSdk\Fake\Advertise;
 
 /**
  * Bjcpm Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Featureword;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Featureword Class

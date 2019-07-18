@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\City;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * City Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Comphandle;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Comphandle Class

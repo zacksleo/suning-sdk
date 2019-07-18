@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Plantinfo\Query;
+namespace Zacksleo\SuningSdk\Fake\Plantinfo;
 
 /**
  * Query Class

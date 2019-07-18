@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Exchangegoodsdelivery;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Exchangegoodsdelivery Class

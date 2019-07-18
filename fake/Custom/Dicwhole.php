@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Dicwhole;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Dicwhole Class

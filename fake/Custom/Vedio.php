@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Vedio;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Vedio Class

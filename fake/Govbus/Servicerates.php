@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Servicerates;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Servicerates Class

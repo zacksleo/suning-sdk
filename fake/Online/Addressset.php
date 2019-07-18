@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Addressset;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Addressset Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Orderlogist;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Orderlogist Class

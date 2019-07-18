@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Catalogcommodity;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Catalogcommodity Class

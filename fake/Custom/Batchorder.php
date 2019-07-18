@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Batchorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Batchorder Class

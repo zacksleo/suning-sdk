@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Asmp\Sninstallorder;
+namespace Zacksleo\SuningSdk\Fake\Asmp;
 
 /**
  * Sninstallorder Class

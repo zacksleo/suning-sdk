@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Npic;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Npic Class

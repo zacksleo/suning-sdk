@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Reservefps;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Reservefps Class

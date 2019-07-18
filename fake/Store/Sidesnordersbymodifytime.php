@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnordersbymodifytime;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnordersbymodifytime Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Storegroupref;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Storegroupref Class

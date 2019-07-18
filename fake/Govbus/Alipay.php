@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Alipay;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Alipay Class

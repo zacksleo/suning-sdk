@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Invmacinfo;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Invmacinfo Class

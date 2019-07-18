@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Crossbuytask;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Crossbuytask Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Shopcategoryitem;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Shopcategoryitem Class

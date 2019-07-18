@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\BatchrejectedOrd;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * BatchrejectedOrd Class

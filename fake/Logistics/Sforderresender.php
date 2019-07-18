@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Sforderresender;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Sforderresender Class

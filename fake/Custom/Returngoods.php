@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Returngoods;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Returngoods Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Storepromotionurl;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Storepromotionurl Class

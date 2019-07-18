@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Bindstatement\Sign;
+namespace Zacksleo\SuningSdk\Fake\Bindstatement;
 
 /**
  * Sign Class

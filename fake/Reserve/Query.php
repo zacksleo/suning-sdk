@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Reserve\Query;
+namespace Zacksleo\SuningSdk\Fake\Reserve;
 
 /**
  * Query Class

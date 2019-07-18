@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Productdetail;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Productdetail Class

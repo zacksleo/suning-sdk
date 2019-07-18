@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Prodextend;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Prodextend Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Advertise\Baojieapi;
+namespace Zacksleo\SuningSdk\Fake\Advertise;
 
 /**
  * Baojieapi Class

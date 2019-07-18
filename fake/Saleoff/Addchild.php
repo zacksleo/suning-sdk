@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Addchild;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Addchild Class

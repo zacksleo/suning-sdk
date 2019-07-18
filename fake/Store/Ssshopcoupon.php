@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Ssshopcoupon;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Ssshopcoupon Class

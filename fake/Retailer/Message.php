@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Message;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Message Class

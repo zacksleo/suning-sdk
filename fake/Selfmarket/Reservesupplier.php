@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Reservesupplier;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Reservesupplier Class

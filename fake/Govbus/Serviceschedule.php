@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Serviceschedule;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Serviceschedule Class

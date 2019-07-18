@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Member;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Member Class

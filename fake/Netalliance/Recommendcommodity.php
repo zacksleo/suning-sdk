@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Recommendcommodity;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Recommendcommodity Class

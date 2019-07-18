@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Swl\Refundappointorder;
+namespace Zacksleo\SuningSdk\Fake\Swl;
 
 /**
  * Refundappointorder Class

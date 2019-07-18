@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Commdtypackage;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Commdtypackage Class

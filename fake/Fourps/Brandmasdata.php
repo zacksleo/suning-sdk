@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Brandmasdata;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Brandmasdata Class

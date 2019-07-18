@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Productlist;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Productlist Class

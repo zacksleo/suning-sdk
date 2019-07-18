@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Facservice\Add;
+namespace Zacksleo\SuningSdk\Fake\Facservice;
 
 /**
  * Add Class

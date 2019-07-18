@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Logisticsdetail;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Logisticsdetail Class

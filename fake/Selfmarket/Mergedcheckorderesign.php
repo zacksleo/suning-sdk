@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Mergedcheckorderesign;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Mergedcheckorderesign Class

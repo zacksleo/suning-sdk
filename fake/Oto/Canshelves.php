@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Canshelves;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Canshelves Class

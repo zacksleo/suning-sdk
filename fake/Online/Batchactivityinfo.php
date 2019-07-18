@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Batchactivityinfo;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Batchactivityinfo Class

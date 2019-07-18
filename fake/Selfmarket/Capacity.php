@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Capacity;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Capacity Class

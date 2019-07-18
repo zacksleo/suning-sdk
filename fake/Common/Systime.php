@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Common\Systime;
+namespace Zacksleo\SuningSdk\Fake\Common;
 
 /**
  * Systime Class

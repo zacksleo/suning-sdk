@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Storegroup;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Storegroup Class

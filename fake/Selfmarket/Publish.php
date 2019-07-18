@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Publish;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Publish Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Orderitem;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Orderitem Class

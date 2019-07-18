@@ -61,7 +61,7 @@ PHP;
                 $raw = <<<PHP
 <?php
 
-namespace Zacksleo\SuningSdk\\Fake\\{$className}\\{$subClassName};
+namespace Zacksleo\SuningSdk\\Fake\\{$className};
 
 /**
  * {$subClassName} Class

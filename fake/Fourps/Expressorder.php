@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Expressorder;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Expressorder Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Supply\Seaorderjoin;
+namespace Zacksleo\SuningSdk\Fake\Supply;
 
 /**
  * Seaorderjoin Class

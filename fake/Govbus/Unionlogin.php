@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Unionlogin;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Unionlogin Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Picfiles;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Picfiles Class

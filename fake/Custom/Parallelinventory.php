@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Parallelinventory;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Parallelinventory Class

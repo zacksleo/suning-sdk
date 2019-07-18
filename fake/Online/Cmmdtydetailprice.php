@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Cmmdtydetailprice;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Cmmdtydetailprice Class

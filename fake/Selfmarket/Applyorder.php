@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Applyorder;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Applyorder Class

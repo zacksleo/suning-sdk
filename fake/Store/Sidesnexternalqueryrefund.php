@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnexternalqueryrefund;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnexternalqueryrefund Class

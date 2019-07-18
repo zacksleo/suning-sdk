@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Abnormal;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Abnormal Class

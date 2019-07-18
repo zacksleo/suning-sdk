@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Itemdetail;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Itemdetail Class

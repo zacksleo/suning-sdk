@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Inverstmentcommodity;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Inverstmentcommodity Class

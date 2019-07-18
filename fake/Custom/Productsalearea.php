@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Productsalearea;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Productsalearea Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Publishcm;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Publishcm Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Itemparameters;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Itemparameters Class

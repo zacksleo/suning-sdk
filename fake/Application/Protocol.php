@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Application\Protocol;
+namespace Zacksleo\SuningSdk\Fake\Application;
 
 /**
  * Protocol Class

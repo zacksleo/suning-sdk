@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Outsourcetask;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Outsourcetask Class

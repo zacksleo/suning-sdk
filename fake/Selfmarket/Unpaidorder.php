@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Unpaidorder;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Unpaidorder Class

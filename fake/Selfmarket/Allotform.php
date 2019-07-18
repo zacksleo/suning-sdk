@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Allotform;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Allotform Class

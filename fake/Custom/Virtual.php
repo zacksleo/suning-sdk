@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Virtual;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Virtual Class

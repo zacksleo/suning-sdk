@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Storeinfo;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Storeinfo Class

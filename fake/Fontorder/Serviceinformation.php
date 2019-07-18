@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fontorder\Serviceinformation;
+namespace Zacksleo\SuningSdk\Fake\Fontorder;
 
 /**
  * Serviceinformation Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Ordersplit;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Ordersplit Class

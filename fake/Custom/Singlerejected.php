@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Singlerejected;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Singlerejected Class

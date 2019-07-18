@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydcmmdtyimgs;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydcmmdtyimgs Class

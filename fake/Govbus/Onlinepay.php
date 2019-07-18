@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Onlinepay;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Onlinepay Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Fourpagedyna;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Fourpagedyna Class

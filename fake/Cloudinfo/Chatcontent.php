@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Cloudinfo\Chatcontent;
+namespace Zacksleo\SuningSdk\Fake\Cloudinfo;
 
 /**
  * Chatcontent Class

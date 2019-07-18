@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Application\Balance;
+namespace Zacksleo\SuningSdk\Fake\Application;
 
 /**
  * Balance Class

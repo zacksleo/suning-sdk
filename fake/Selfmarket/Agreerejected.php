@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Agreerejected;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Agreerejected Class

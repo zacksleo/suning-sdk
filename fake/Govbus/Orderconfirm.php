@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Orderconfirm;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Orderconfirm Class

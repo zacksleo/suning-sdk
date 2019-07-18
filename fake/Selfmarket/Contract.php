@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Contract;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Contract Class

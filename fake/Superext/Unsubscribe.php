@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Superext\Unsubscribe;
+namespace Zacksleo\SuningSdk\Fake\Superext;
 
 /**
  * Unsubscribe Class

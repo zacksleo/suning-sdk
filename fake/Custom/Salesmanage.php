@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Salesmanage;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Salesmanage Class

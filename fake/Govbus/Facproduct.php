@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Facproduct;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Facproduct Class

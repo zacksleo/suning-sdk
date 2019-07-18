@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Appstore;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Appstore Class

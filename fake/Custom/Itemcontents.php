@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Itemcontents;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Itemcontents Class

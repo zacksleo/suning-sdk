@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Supplyapplying;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Supplyapplying Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Pzxxdatainfo;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Pzxxdatainfo Class

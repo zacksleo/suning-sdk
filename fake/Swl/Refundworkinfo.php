@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Swl\Refundworkinfo;
+namespace Zacksleo\SuningSdk\Fake\Swl;
 
 /**
  * Refundworkinfo Class

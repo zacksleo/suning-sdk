@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Cmmdtyreceive;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Cmmdtyreceive Class

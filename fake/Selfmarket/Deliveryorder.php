@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Deliveryorder;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Deliveryorder Class

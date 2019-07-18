@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Couponproduct;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Couponproduct Class

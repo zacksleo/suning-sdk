@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Supply\Reorderbytime;
+namespace Zacksleo\SuningSdk\Fake\Supply;
 
 /**
  * Reorderbytime Class

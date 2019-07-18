@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Predepositbalance;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Predepositbalance Class

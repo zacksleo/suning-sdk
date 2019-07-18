@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Purchaseorders;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Purchaseorders Class

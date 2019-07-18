@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Oneorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Oneorder Class

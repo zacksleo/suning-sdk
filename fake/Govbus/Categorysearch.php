@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Categorysearch;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Categorysearch Class

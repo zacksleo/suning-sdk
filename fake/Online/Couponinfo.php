@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Couponinfo;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Couponinfo Class

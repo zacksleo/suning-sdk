@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Cmmdtybaseinfo;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Cmmdtybaseinfo Class

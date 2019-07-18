@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Paymentway;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Paymentway Class

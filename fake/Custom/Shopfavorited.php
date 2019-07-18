@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Shopfavorited;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Shopfavorited Class

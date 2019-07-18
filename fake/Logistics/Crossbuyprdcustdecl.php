@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Crossbuyprdcustdecl;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Crossbuyprdcustdecl Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Asmp\Dispatchorder;
+namespace Zacksleo\SuningSdk\Fake\Asmp;
 
 /**
  * Dispatchorder Class

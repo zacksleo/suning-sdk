@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Nation;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Nation Class

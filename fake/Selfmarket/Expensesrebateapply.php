@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Expensesrebateapply;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Expensesrebateapply Class

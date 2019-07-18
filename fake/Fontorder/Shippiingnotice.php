@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fontorder\Shippiingnotice;
+namespace Zacksleo\SuningSdk\Fake\Fontorder;
 
 /**
  * Shippiingnotice Class

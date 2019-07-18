@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Application\Privilege;
+namespace Zacksleo\SuningSdk\Fake\Application;
 
 /**
  * Privilege Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Cloudsalesreport;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Cloudsalesreport Class

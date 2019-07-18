@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Shiptime;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Shiptime Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Offline\Refund;
+namespace Zacksleo\SuningSdk\Fake\Offline;
 
 /**
  * Refund Class

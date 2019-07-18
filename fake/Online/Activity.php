@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Activity;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Activity Class

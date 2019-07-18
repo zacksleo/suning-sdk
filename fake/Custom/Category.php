@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Category;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Category Class

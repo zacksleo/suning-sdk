@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Oto\Addchild;
+namespace Zacksleo\SuningSdk\Fake\Oto;
 
 /**
  * Addchild Class

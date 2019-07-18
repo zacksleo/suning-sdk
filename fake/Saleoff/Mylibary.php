@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Mylibary;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Mylibary Class

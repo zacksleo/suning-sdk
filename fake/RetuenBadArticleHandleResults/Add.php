@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\RetuenBadArticleHandleResults\Add;
+namespace Zacksleo\SuningSdk\Fake\RetuenBadArticleHandleResults;
 
 /**
  * Add Class

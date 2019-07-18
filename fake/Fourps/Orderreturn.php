@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Orderreturn;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Orderreturn Class

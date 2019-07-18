@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Merchantcommodity;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Merchantcommodity Class

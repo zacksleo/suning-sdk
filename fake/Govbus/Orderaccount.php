@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Orderaccount;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Orderaccount Class

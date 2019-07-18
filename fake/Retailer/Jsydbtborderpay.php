@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydbtborderpay;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydbtborderpay Class

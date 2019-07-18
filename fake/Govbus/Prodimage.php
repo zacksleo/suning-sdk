@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Prodimage;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Prodimage Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Publishcm;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Publishcm Class

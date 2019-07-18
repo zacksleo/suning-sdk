@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Receipt\Query;
+namespace Zacksleo\SuningSdk\Fake\Receipt;
 
 /**
  * Query Class

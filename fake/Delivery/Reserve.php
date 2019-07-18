@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Delivery\Reserve;
+namespace Zacksleo\SuningSdk\Fake\Delivery;
 
 /**
  * Reserve Class

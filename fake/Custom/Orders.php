@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Orders;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Orders Class

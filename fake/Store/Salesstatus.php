@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Salesstatus;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Salesstatus Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Ordernote;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Ordernote Class

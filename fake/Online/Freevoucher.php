@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Freevoucher;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Freevoucher Class

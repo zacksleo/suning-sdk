@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Atmopic;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Atmopic Class

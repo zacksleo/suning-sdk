@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Disagreerejected;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Disagreerejected Class

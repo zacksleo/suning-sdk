@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Book;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Book Class

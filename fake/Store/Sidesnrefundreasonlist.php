@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnrefundreasonlist;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnrefundreasonlist Class

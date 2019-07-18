@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Seaorderdelivery;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Seaorderdelivery Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnrejectrefund;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnrejectrefund Class

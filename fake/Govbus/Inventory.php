@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Inventory;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Inventory Class

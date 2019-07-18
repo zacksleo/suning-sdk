@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Replycmreview;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Replycmreview Class

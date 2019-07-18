@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Refundworkinfo;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Refundworkinfo Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Querysingleexchangegoods;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Querysingleexchangegoods Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Direcoupon;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Direcoupon Class

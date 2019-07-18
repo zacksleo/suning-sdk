@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Mainproduct;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Mainproduct Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Agreeexchange;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Agreeexchange Class

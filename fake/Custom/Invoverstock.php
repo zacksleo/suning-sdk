@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Invoverstock;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Invoverstock Class

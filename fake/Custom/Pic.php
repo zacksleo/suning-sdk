@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Pic;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Pic Class

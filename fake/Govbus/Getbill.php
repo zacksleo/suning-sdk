@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Getbill;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Getbill Class

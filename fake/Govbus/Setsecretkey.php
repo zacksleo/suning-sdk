@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Setsecretkey;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Setsecretkey Class

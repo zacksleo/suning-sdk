@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Rejectsfail;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Rejectsfail Class

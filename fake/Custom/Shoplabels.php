@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Shoplabels;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Shoplabels Class

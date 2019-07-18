@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\BadArticleOrder\Add;
+namespace Zacksleo\SuningSdk\Fake\BadArticleOrder;
 
 /**
  * Add Class

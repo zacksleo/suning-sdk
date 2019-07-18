@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Childitem;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Childitem Class

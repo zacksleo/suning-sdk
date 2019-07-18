@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Getproductcluster;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Getproductcluster Class

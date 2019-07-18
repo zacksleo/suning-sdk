@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Priceforcart;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Priceforcart Class

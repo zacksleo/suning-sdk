@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retail\Xdsales;
+namespace Zacksleo\SuningSdk\Fake\Retail;
 
 /**
  * Xdsales Class

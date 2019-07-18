@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Unpaidorder;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Unpaidorder Class

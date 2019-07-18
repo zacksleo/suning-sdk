@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Elecinvoice;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Elecinvoice Class

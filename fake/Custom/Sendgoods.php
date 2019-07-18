@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Sendgoods;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Sendgoods Class

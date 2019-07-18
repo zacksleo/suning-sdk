@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Historyorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Historyorder Class

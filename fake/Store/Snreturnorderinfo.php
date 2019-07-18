@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Snreturnorderinfo;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Snreturnorderinfo Class

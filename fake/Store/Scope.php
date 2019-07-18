@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Scope;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Scope Class

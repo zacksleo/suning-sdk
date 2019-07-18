@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Productsearch;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Productsearch Class

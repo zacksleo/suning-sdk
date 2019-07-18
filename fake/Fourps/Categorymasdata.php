@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Categorymasdata;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Categorymasdata Class

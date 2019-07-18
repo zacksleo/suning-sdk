@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Rejectedord;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Rejectedord Class

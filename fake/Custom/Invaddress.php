@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Invaddress;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Invaddress Class

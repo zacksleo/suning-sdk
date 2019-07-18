@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Logisticsorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Logisticsorder Class

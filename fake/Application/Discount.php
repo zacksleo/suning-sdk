@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Application\Discount;
+namespace Zacksleo\SuningSdk\Fake\Application;
 
 /**
  * Discount Class

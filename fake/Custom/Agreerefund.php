@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Agreerefund;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Agreerefund Class

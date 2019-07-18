@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Superext\Checkpaidthreshold;
+namespace Zacksleo\SuningSdk\Fake\Superext;
 
 /**
  * Checkpaidthreshold Class

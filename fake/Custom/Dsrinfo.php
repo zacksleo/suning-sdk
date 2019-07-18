@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Dsrinfo;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Dsrinfo Class

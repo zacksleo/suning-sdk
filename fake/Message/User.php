@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Message\User;
+namespace Zacksleo\SuningSdk\Fake\Message;
 
 /**
  * User Class

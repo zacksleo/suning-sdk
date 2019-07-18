@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Repairmethod;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Repairmethod Class

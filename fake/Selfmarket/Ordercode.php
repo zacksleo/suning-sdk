@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Ordercode;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Ordercode Class

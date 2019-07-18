@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Storelocation;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Storelocation Class

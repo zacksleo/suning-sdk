@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Verifycode;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Verifycode Class

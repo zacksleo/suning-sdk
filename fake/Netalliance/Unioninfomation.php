@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Unioninfomation;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Unioninfomation Class

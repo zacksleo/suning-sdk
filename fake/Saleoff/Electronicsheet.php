@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Electronicsheet;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Electronicsheet Class

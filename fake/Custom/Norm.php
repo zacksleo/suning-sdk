@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Norm;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Norm Class

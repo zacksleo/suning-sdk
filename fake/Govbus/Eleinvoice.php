@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Eleinvoice;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Eleinvoice Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Returnorder;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Returnorder Class

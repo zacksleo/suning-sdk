@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Syncinventory;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Syncinventory Class

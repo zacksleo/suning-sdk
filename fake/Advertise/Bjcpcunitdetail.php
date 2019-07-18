@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Advertise\Bjcpcunitdetail;
+namespace Zacksleo\SuningSdk\Fake\Advertise;
 
 /**
  * Bjcpcunitdetail Class

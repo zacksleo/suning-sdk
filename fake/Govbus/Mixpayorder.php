@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Mixpayorder;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Mixpayorder Class

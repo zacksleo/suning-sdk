@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Price;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Price Class

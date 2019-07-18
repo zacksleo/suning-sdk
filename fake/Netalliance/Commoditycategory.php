@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Commoditycategory;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Commoditycategory Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Searchinstall;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Searchinstall Class

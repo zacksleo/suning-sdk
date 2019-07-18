@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Orderdelay;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Orderdelay Class

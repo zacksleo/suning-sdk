@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Taskstatusfeedback;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Taskstatusfeedback Class

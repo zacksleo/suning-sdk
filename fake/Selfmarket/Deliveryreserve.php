@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Deliveryreserve;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Deliveryreserve Class

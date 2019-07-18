@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Advertise\Bjcpmmurl;
+namespace Zacksleo\SuningSdk\Fake\Advertise;
 
 /**
  * Bjcpmmurl Class

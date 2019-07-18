@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Seaorderdeclare;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Seaorderdeclare Class

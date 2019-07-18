@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Integrate\Culitemcontentrevise;
+namespace Zacksleo\SuningSdk\Fake\Integrate;
 
 /**
  * Culitemcontentrevise Class

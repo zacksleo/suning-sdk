@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidesnagreerefund;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidesnagreerefund Class

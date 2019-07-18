@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Judgefacproduct;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Judgefacproduct Class

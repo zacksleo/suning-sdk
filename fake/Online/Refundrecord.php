@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Refundrecord;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Refundrecord Class

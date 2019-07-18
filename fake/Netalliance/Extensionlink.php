@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Extensionlink;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Extensionlink Class

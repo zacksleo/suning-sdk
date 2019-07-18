@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Swl\Productstorage;
+namespace Zacksleo\SuningSdk\Fake\Swl;
 
 /**
  * Productstorage Class

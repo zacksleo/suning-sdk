@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Integrate\Price;
+namespace Zacksleo\SuningSdk\Fake\Integrate;
 
 /**
  * Price Class

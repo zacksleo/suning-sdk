@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Receiveexpection;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Receiveexpection Class

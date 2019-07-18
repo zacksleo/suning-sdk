@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Applicationprivilege;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Applicationprivilege Class

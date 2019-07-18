@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Getproductcode;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Getproductcode Class

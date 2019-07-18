@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Operasale\Writecarddata;
+namespace Zacksleo\SuningSdk\Fake\Operasale;
 
 /**
  * Writecarddata Class

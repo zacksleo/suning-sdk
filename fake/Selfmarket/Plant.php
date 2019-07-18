@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Plant;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Plant Class

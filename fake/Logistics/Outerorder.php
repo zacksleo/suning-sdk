@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Logistics\Outerorder;
+namespace Zacksleo\SuningSdk\Fake\Logistics;
 
 /**
  * Outerorder Class

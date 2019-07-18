@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Storagesub;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Storagesub Class

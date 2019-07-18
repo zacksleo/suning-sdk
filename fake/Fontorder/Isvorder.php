@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fontorder\Isvorder;
+namespace Zacksleo\SuningSdk\Fake\Fontorder;
 
 /**
  * Isvorder Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Exchangepackage;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Exchangepackage Class

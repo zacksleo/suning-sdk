@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Saleoff\Itemcontents;
+namespace Zacksleo\SuningSdk\Fake\Saleoff;
 
 /**
  * Itemcontents Class

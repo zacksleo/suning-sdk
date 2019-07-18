@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Asmp\Statement;
+namespace Zacksleo\SuningSdk\Fake\Asmp;
 
 /**
  * Statement Class

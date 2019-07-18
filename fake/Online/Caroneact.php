@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Caroneact;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Caroneact Class

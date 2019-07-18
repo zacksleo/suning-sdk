@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Unsale;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Unsale Class

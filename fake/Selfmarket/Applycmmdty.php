@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Applycmmdty;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Applycmmdty Class

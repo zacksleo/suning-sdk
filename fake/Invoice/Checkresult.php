@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Invoice\Checkresult;
+namespace Zacksleo\SuningSdk\Fake\Invoice;
 
 /**
  * Checkresult Class

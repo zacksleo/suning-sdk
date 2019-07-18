@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Pricereduce;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Pricereduce Class

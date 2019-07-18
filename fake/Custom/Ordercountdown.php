@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Ordercountdown;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Ordercountdown Class

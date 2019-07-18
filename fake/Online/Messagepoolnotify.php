@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Messagepoolnotify;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Messagepoolnotify Class

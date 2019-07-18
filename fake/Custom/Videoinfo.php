@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Videoinfo;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Videoinfo Class

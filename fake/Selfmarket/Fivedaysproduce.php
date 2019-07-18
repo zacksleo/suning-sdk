@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Fivedaysproduce;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Fivedaysproduce Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Saleareatemplateitemgroup;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Saleareatemplateitemgroup Class

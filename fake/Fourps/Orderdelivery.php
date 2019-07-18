@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Orderdelivery;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Orderdelivery Class

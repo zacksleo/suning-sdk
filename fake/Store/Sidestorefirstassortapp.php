@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Store\Sidestorefirstassortapp;
+namespace Zacksleo\SuningSdk\Fake\Store;
 
 /**
  * Sidestorefirstassortapp Class

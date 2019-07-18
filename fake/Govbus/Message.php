@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Message;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Message Class

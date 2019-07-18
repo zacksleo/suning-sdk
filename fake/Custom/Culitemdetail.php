@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Culitemdetail;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Culitemdetail Class

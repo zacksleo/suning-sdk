@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Agreerejected;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Agreerejected Class

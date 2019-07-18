@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Memintegral;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Memintegral Class

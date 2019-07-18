@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Ordmodtime;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Ordmodtime Class

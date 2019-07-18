@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Integrate\Itemdetail;
+namespace Zacksleo\SuningSdk\Fake\Integrate;
 
 /**
  * Itemdetail Class

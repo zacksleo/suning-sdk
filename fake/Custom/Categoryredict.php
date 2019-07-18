@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Categoryredict;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Categoryredict Class

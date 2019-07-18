@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Merorderdirect;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Merorderdirect Class

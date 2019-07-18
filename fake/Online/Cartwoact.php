@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Online\Cartwoact;
+namespace Zacksleo\SuningSdk\Fake\Online;
 
 /**
  * Cartwoact Class

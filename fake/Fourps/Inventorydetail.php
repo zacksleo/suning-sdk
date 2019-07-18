@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Inventorydetail;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Inventorydetail Class

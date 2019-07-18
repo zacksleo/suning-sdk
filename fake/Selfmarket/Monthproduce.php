@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Monthproduce;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Monthproduce Class

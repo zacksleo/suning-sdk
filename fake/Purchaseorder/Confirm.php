@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Purchaseorder\Confirm;
+namespace Zacksleo\SuningSdk\Fake\Purchaseorder;
 
 /**
  * Confirm Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fourps\Result;
+namespace Zacksleo\SuningSdk\Fake\Fourps;
 
 /**
  * Result Class

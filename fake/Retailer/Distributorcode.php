@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Distributorcode;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Distributorcode Class

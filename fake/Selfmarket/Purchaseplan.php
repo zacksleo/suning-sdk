@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Purchaseplan;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Purchaseplan Class

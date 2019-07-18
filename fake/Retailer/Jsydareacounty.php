@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Retailer\Jsydareacounty;
+namespace Zacksleo\SuningSdk\Fake\Retailer;
 
 /**
  * Jsydareacounty Class

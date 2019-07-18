@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Stockform;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Stockform Class

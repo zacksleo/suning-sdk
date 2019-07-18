@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Fws\Chargeiteminfo;
+namespace Zacksleo\SuningSdk\Fake\Fws;
 
 /**
  * Chargeiteminfo Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Proto;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Proto Class

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Ord;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Ord Class

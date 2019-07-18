@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Netalliance\Homepagepositionurl;
+namespace Zacksleo\SuningSdk\Fake\Netalliance;
 
 /**
  * Homepagepositionurl Class

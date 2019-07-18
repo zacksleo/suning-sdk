@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Selfmarket\Saleform;
+namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 
 /**
  * Saleform Class

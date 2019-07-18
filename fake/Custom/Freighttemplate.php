@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Freighttemplate;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Freighttemplate Class

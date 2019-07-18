@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Custom\Transportfee;
+namespace Zacksleo\SuningSdk\Fake\Custom;
 
 /**
  * Transportfee Class

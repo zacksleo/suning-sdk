@@ -1,6 +1,6 @@
 <?php
 
-namespace Zacksleo\SuningSdk\Fake\Govbus\Getcardsecretkey;
+namespace Zacksleo\SuningSdk\Fake\Govbus;
 
 /**
  * Getcardsecretkey Class
