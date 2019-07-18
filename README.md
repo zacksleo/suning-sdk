@@ -38,7 +38,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-> 其中，第一个参数数组中，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
+> 其中，第一个参数为数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
 
 ### 2.2 简化调用方式
 
@@ -56,7 +56,7 @@ $ composer require zacksleo/suning-sdk -vvv
     ]);
 ```
 
-### 2.4 文艺调用方式
+### 2.4 链式调用方式
 
 ```php
     $response = $suning->custom->logisticcompany->get([

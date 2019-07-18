@@ -15,5 +15,15 @@
         "psr-4": {
             "Zacksleo\\SuningSdk\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zacksleo\\SuningSdk\\Command\\": "bin/Command",
+            "Zacksleo\\SuningSdk\\Fake\\": "fake"
+        }
+    },
+    "require-dev": {
+        "symfony/console": "^4.3",
+        "symfony/dom-crawler": "^4.3"
     }
 }

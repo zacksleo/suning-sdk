@@ -1,0 +1,13 @@
+<?php
+
+namespace Zacksleo\SuningSdk\Fake\Oto\Supplyapplying;
+
+/**
+ * Supplyapplying Class
+ *
+ * @method array query($method, $params, $files = []) 商品供货状态查询批量
+ * @method array add($method, $params, $files = []) 商品申请供货（超市申请供货、云店/广场上架商品）
+ */
+class Supplyapplying
+{
+}
