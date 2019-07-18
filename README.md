@@ -1,6 +1,6 @@
 <h1 align="center"> suning-sdk </h1>
 
-<p align="center"> 苏宁SDK.</p>
+<p align="center"> 苏宁开放平台 SDK</p>
 
 
 ## Installing
@@ -15,16 +15,16 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ```php
 
-    use Zacksleo\SuningSdk\Suning;
+use Zacksleo\SuningSdk\Suning;
 
-    $suning = new Suning([
-        'key'        => 'key',
-        'secret'     => 'secret',
-        'debug'      => false,
-        'file'       => __DIR__.'/suning.log',
-        'level'      => 'error',
-        'permission' => 0777,
-    ]);
+$suning = new Suning([
+    'key'        => 'key',
+    'secret'     => 'secret',
+    'debug'      => false,
+    'file'       => __DIR__.'/suning.log',
+    'level'      => 'error',
+    'permission' => 0777,
+]);
 
 ```
 
@@ -33,20 +33,19 @@ $ composer require zacksleo/suning-sdk -vvv
 > 该方式支持类型提示和自动补全
 
 ```php
-    $response = $suning->custom->logisticcompany->get([
-        'companyName' => '申通快递',
-    ]);
-
+$response = $suning->custom->logisticcompany->get([
+    'companyName' => '申通快递',
+]);
 ```
 
 ### 2.2 标准调用方式
 
 ```php
-    $response = $suning->request([
-        'suning.custom.logisticcompany.get' => 'logisticCompany'
-    ], [
-        'companyName' => '申通快递',
-    ]);
+$response = $suning->request([
+    'suning.custom.logisticcompany.get' => 'logisticCompany'
+], [
+    'companyName' => '申通快递',
+]);
 ```
 
 > 其中，第一个参数为数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
@@ -54,17 +53,17 @@ $ composer require zacksleo/suning-sdk -vvv
 以上调用可省略为
 
 ```php
-    $response = $suning->request('suning.custom.logisticcompany.get', [
-        'companyName' => '申通快递',
-    ]);
+$response = $suning->request('suning.custom.logisticcompany.get', [
+    'companyName' => '申通快递',
+]);
 ```
 
  或
 
 ```php
-    $response = $suning->request('custom.logisticcompany.get', [
-        'companyName' => '申通快递',
-    ]);
+$response = $suning->request('custom.logisticcompany.get', [
+    'companyName' => '申通快递',
+]);
 ```
 
 > 注意：除标准调用方式外，其他调用方式需要确保 [map.php](https://github.com/zacksleo/suning-sdk/blob/master/src/map.php) 文件中存在对应的值。如果没有，欢迎PR.
@@ -90,19 +89,17 @@ array:1 [
  总共会抛出两种错误
 
 ```php
-
-    try {
-        $response = $suning->custom->logisticcompany->get([
-            'companyName' => '申通快递',
-        ]);
-    } catch (\Zacksleo\SuningSdk\SuningException $exception) {
-        //苏宁返回错误
-        var_dump($exception->getMessage());
-    } catch (\Hanson\Foundation\Exception\HttpException $exception) {
-        //Http 请求发生错误
-        var_dump($exception->getMessage());
-    }
-
+try {
+    $response = $suning->custom->logisticcompany->get([
+        'companyName' => '申通快递',
+    ]);
+} catch (\Zacksleo\SuningSdk\SuningException $exception) {
+    //苏宁返回错误
+    var_dump($exception->getMessage());
+} catch (\Hanson\Foundation\Exception\HttpException $exception) {
+    //Http 请求发生错误
+    var_dump($exception->getMessage());
+}
 ```
 
 ## 命令行工具
