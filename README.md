@@ -92,15 +92,15 @@ array:1 [
 ```php
 
     try {
-        $response = $suning->request('custom.logisticcompany.get', [
+        $response = $suning->custom->logisticcompany->get([
             'companyName' => '申通快递',
         ]);
     } catch (\Zacksleo\SuningSdk\SuningException $exception) {
         //苏宁返回错误
-        $exception->getMessage();
+        var_dump($exception->getMessage());
     } catch (\Hanson\Foundation\Exception\HttpException $exception) {
         //Http 请求发生错误
-        $exception->getMessage();
+        var_dump($exception->getMessage());
     }
 
 ```
