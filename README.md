@@ -58,6 +58,8 @@ $ composer require zacksleo/suning-sdk -vvv
 
 ### 2.4 链式调用方式
 
+> 该方式支持类型提示和自动补全
+
 ```php
     $response = $suning->custom->logisticcompany->get([
         'companyName' => '申通快递',
