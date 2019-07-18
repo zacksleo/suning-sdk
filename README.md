@@ -103,6 +103,30 @@ array:1 [
 
 ```
 
+## 命令行工具
+
+### 生成 map.php 文件
+
+```bash
+php ./bin/suning map:generate
+```
+
+### 生成 fake:generate 专用的 map.php 文件
+
+```bash
+php ./bin/suning map:generate --fake
+```
+
+```bash
+php ./bin/suning map:generate
+```
+
+### 生成用于代码补全提示的类
+
+```bash
+php ./bin/suning fake:generate
+```
+
 ## Contributing
 
 You can contribute in one of three ways:
