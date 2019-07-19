@@ -5,8 +5,8 @@ namespace Zacksleo\SuningSdk\Fake\Online;
 /**
  * Activity Class
  *
- * @method array get($method, $params, $files = []) 获取大聚惠活动信息
- * @method array confirm($method, $params, $files = []) 营销资格检查
+ * @method array get(array $params, $files = []) 获取大聚惠活动信息
+ * @method array confirm(array $params, $files = []) 营销资格检查
  */
 class Activity
 {

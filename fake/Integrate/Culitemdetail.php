@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Integrate;
 /**
  * Culitemdetail Class
  *
- * @method array get($method, $params, $files = []) 乐拼购获取我的商品库详情（文化制品类）
+ * @method array get(array $params, $files = []) 乐拼购获取我的商品库详情（文化制品类）
  */
 class Culitemdetail
 {

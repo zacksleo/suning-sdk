@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Advertise;
 /**
  * Bjcpcunitdetail Class
  *
- * @method array query($method, $params, $files = []) cpc宝洁推广单元明细
+ * @method array query(array $params, $files = []) cpc宝洁推广单元明细
  */
 class Bjcpcunitdetail
 {

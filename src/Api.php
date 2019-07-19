@@ -61,7 +61,7 @@ class Api extends AbstractAPI
             $bizName = current($method);
         } elseif (is_string($method)) {
             $appMethod = $this->autoCompleteAppMethod($method);
-            $map = require_once __DIR__.'/map.php';
+            $map = include __DIR__.'/map.php';
             if (! isset($map[$appMethod])) {
                 throw new \InvalidArgumentException("map 文件中未设置 $appMethod 对应的 bizName，请使用 [appMethod=>bizName] 形式传递参数");
             }
@@ -100,10 +100,24 @@ class Api extends AbstractAPI
 
         $res = json_decode((string) $response->getBody(), true);
         if (isset($res['sn_responseContent']['sn_error'])) {
+            if ($res['sn_responseContent']['sn_error']['error_code'] == 'biz.handler.data-get:no-result') {
+                return [
+                    'header' => [
+                        'pageTotal'     => 0,
+                        'pageNo'        => $params['pageNo'] ?? 1,
+                        'totalSize'     => 0,
+                        'returnMessage' => '',
+                    ],
+                    'body' => [],
+                ];
+            }
             throw new SuningException($res['sn_responseContent']['sn_error']['error_code']);
         }
 
-        return $res['sn_responseContent'];
+        return [
+            'header' => $res['sn_responseContent']['sn_head'],
+            'body' => $res['sn_responseContent']['sn_body'][$bizName],
+        ];
     }
 
     /**

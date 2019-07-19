@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Govbus;
 /**
  * Shiptime Class
  *
- * @method array get($method, $params, $files = []) 物流时效接口
+ * @method array get(array $params, $files = []) 物流时效接口
  */
 class Shiptime
 {

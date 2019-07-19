@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 /**
  * Purchaseplanconfirm Class
  *
- * @method array add($method, $params, $files = []) 采购计划确认结果反馈
+ * @method array add(array $params, $files = []) 采购计划确认结果反馈
  */
 class Purchaseplanconfirm
 {

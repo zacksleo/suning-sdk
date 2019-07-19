@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Retailer;
 /**
  * Storearea Class
  *
- * @method array query($method, $params, $files = []) 零售云省市区信息查询接口
+ * @method array query(array $params, $files = []) 零售云省市区信息查询接口
  */
 class Storearea
 {

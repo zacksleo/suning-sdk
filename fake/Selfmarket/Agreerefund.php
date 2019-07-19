@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Selfmarket;
 /**
  * Agreerefund Class
  *
- * @method array modify($method, $params, $files = []) 厂送退货审核（同意退款）
+ * @method array modify(array $params, $files = []) 厂送退货审核（同意退款）
  */
 class Agreerefund
 {

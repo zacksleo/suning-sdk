@@ -52,7 +52,7 @@ PHP;
                 foreach ($methods as $subMethods) {
                     foreach ($subMethods as $method=>$comment) {
                         $methodRaw .= <<<PHP
- * @method array {$method}(\$method, \$params, \$files = []) {$comment}\n
+ * @method array {$method}(array \$params, \$files = []) {$comment}\n
 PHP;
                     }
                 }

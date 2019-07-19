@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Operasale;
 /**
  * Preoccupyphnum Class
  *
- * @method array update($method, $params, $files = []) 号码预占接口
+ * @method array update(array $params, $files = []) 号码预占接口
  */
 class Preoccupyphnum
 {

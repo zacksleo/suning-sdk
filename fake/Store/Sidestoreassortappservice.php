@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Store;
 /**
  * Sidestoreassortappservice Class
  *
- * @method array update($method, $params, $files = []) 分类新增修改删除排序
+ * @method array update(array $params, $files = []) 分类新增修改删除排序
  */
 class Sidestoreassortappservice
 {

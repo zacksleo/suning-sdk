@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Govbus;
 /**
  * Price Class
  *
- * @method array query($method, $params, $files = []) 批量查询商品价格接口
+ * @method array query(array $params, $files = []) 批量查询商品价格接口
  */
 class Price
 {

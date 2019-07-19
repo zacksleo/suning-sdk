@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Saleoff;
 /**
  * Mylibarybatch Class
  *
- * @method array query($method, $params, $files = []) 联营特卖批量获取我的商品库信息
+ * @method array query(array $params, $files = []) 联营特卖批量获取我的商品库信息
  */
 class Mylibarybatch
 {
