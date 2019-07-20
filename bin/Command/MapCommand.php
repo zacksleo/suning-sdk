@@ -90,6 +90,7 @@ BLOCK;
         $bar->setBarCharacter('<info>'.$bar->getBarCharacter().'</info>');
         $bar->setMessage('开始解析子页面...');
         $bar->start();
+        $keys = [];
         foreach ($menus as $menu) {
             $raw .= $menu['comment'];
             foreach ($menu['links'] as $link) {
@@ -101,9 +102,15 @@ BLOCK;
                     '{$link['method']}'         => ['{$key}' => '{$link['description']}'], \n
 BLOCK;
                 } else {
-                    $raw .= <<<BLOCK
-                    '{$link['method']}'         => '{$key}', // {$link['description']} \n
+                    //$prefix = '';
+                    if (! in_array($link['method'], $keys)) {
+                        $keys[] = $link['method'];
+                        $raw .= <<<BLOCK
+    '{$link['method']}' => '{$key}', // {$link['description']} \n
 BLOCK;
+                    } else {
+                        //$prefix = '//';
+                    }
                 }
                 $bar->advance();
             }

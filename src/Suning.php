@@ -101,6 +101,7 @@ class Suning extends Foundation
         if (isset($arguments)) {
             return $this->api->request($this->method, ...$arguments);
         }
+        $this->method = 'suning';
 
         return $this;
     }

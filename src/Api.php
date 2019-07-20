@@ -18,11 +18,13 @@ class Api extends AbstractAPI
     private $key;
     private $secret;
     private $inDev = false;
+    private $map = [];
 
     public function __construct($key, $secret)
     {
         $this->key = $key;
         $this->secret = $secret;
+        $this->map = include __DIR__.'/map.php';
     }
 
     /**
@@ -61,12 +63,11 @@ class Api extends AbstractAPI
             $bizName = current($method);
         } elseif (is_string($method)) {
             $appMethod = $this->autoCompleteAppMethod($method);
-            $map = include __DIR__.'/map.php';
-            if (! isset($map[$appMethod])) {
+            if (! isset($this->map[$appMethod])) {
                 throw new \InvalidArgumentException("map 文件中未设置 $appMethod 对应的 bizName，请使用 [appMethod=>bizName] 形式传递参数");
             }
 
-            $bizName = $map[$appMethod];
+            $bizName = $this->map[$appMethod];
         } else {
             throw new \InvalidArgumentException('不支持的参数格式');
         }
