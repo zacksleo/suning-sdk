@@ -116,7 +116,12 @@ class Api extends AbstractAPI
         }
 
         return [
-            'header' => $res['sn_responseContent']['sn_head'],
+            'header' => $res['sn_responseContent']['sn_head'] ?? [
+                'pageTotal'     => 1,
+                'pageNo'        => 1,
+                'totalSize'     => 1,
+                'returnMessage' => '',
+            ],
             'body' => $res['sn_responseContent']['sn_body'][$bizName],
         ];
     }
