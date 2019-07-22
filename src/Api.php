@@ -2,6 +2,7 @@
 
 namespace Zacksleo\SuningSdk;
 
+use Hanson\Foundation\Log;
 use Hanson\Foundation\AbstractAPI;
 use Hanson\Foundation\Exception\HttpException;
 
@@ -64,11 +65,14 @@ class Api extends AbstractAPI
         } elseif (is_string($method)) {
             $appMethod = $this->autoCompleteAppMethod($method);
             if (! isset($this->map[$appMethod])) {
-                throw new \InvalidArgumentException("map 文件中未设置 $appMethod 对应的 bizName，请使用 [appMethod=>bizName] 形式传递参数");
+                $message = "map 文件中未设置 $appMethod 对应的 bizName，请使用 [appMethod=>bizName] 形式传递参数";
+                Log::error($message);
+                throw new \InvalidArgumentException($message);
             }
 
             $bizName = $this->map[$appMethod];
         } else {
+            Log::error('不支持的参数格式');
             throw new \InvalidArgumentException('不支持的参数格式');
         }
         $params = ['sn_request' => ['sn_body' => [
@@ -96,6 +100,7 @@ class Api extends AbstractAPI
                 'json' => $params,
             ]);
         } catch (\Exception  $e) {
+            Log::error($e->getMessage(), $e->getTrace());
             throw new HttpException($e->getMessage(), $e->getCode(), $e);
         }
 
