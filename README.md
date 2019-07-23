@@ -72,15 +72,19 @@ $response = $suning->request('custom.logisticcompany.get', [
 
 ### 输出格式
 
-返回值取出的是 sn_body 及其值
+返回值取出的是 sn_header 及 sn_body, 如果不存在 sn_header， 给给予默认值
 
 ```bash
-array:1 [
-  "sn_body" => array:1 [
-    "logisticCompany" => array:2 [
-      "expressCompanyName" => "申通快递"
-      "expressCompanyCode" => "S01"
-    ]
+array:2 [
+  "header" => array:4 [
+    "pageTotal" => 1
+    "pageNo" => 1
+    "totalSize" => 1
+    "returnMessage" => ""
+  ]
+  "body" => array:2 [
+    "expressCompanyName" => "申通快递"
+    "expressCompanyCode" => "S01"
   ]
 ]
 
