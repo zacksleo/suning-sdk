@@ -35,9 +35,7 @@ $suning = new Suning([
 > 该方式支持类型提示和自动补全
 
 ```php
-$response = $suning->custom->logisticcompany->get([
-    'companyName' => '申通快递',
-]);
+$response = $suning->custom->logisticcompany->get(['companyName' => '申通快递',]);
 ```
 
 ### 2.2 标准调用方式
@@ -50,22 +48,18 @@ $response = $suning->request([
 ]);
 ```
 
-> 其中，第一个参数为数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) sn_body 的值
+> 第一个参数如果是数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) 请求参数的值
 
 以上调用可省略为
 
 ```php
-$response = $suning->request('suning.custom.logisticcompany.get', [
-    'companyName' => '申通快递',
-]);
+$response = $suning->request('suning.custom.logisticcompany.get', [ 'companyName' => '申通快递' ]);
 ```
 
  或
 
 ```php
-$response = $suning->request('custom.logisticcompany.get', [
-    'companyName' => '申通快递',
-]);
+$response = $suning->request('custom.logisticcompany.get', [ 'companyName' => '申通快递', ]);
 ```
 
 > 注意：除标准调用方式外，其他调用方式需要确保 [map.php](https://github.com/zacksleo/suning-sdk/blob/master/src/map.php) 文件中存在对应的值。如果没有，欢迎PR.
