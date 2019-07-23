@@ -92,18 +92,12 @@ array:2 [
 
 ### 异常处理
 
- 总共会抛出两种错误
-
 ```php
 try {
     $response = $suning->custom->logisticcompany->get([
         'companyName' => '申通快递',
     ]);
-} catch (\Zacksleo\SuningSdk\SuningException $exception) {
-    //苏宁返回错误
-    var_dump($exception->getMessage());
-} catch (\Hanson\Foundation\Exception\HttpException $exception) {
-    //Http 请求发生错误
+} catch (\Exception $exception) {
     var_dump($exception->getMessage());
 }
 ```
