@@ -48,7 +48,7 @@ $response = $suning->request([
 ]);
 ```
 
-> 第一个参数如果是数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档请求示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) 请求参数的值
+> 第一个参数如果是数组，key 为 ApiMethodName, value 为 BizName。第二个参数对应[官方文档示例中](http://open.suning.com/ospos/apipage/toApiListMenu.do) 请求参数的值
 
 以上调用可省略为
 
