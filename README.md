@@ -21,9 +21,11 @@ $suning = new Suning([
     'key'        => 'key',
     'secret'     => 'secret',
     'debug'      => false,
-    'file'       => __DIR__.'/suning.log',
-    'level'      => 'error',
-    'permission' => 0777,
+    'log' => [
+        'file'       => __DIR__.'/suning.log',
+        'level'      => 'error',
+        'permission' => 0777,
+    ]
 ]);
 
 ```
