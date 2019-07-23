@@ -5,7 +5,7 @@ namespace Zacksleo\SuningSdk\Fake\Govbus;
 /**
  * Shipcarriage Class
  *
- * @method array get(array $params, $files = []) 物流运费接口
+ * @method array get(array $params = null, $files = []) 物流运费接口
  */
 class Shipcarriage
 {

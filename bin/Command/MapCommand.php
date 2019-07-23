@@ -5,7 +5,6 @@ namespace Zacksleo\SuningSdk\Command;
 use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Helper\ProgressBar;
-use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
@@ -22,7 +21,6 @@ class MapCommand extends Command
         $this
             ->setName('map:generate')
             ->setDescription('生成map文件')
-            ->addArgument('page-id', InputArgument::OPTIONAL, 'interTypePageId')
             ->addOption('fake', '生成FakeCommand专用的map');
     }
 
@@ -31,11 +29,6 @@ class MapCommand extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        /*
-        $key = $this->getBizName('http://open.suning.com/ospos/apipage/toApiMethodDetailMenu.do?interCode=suning.custom.complaint.get');
-        var_dump($key);
-        exit;
-        */
         $output->writeln('正在解析 API 文档首页...');
         $html = file_get_contents(self::GATEWAY.'/ospos/apipage/toApiListMenu.do');
         $crawler = new Crawler($html);
@@ -119,7 +112,8 @@ BLOCK;
     ];
 PHP;
         $bar->finish();
-        file_put_contents(__DIR__.'/map.php', $raw);
+        $fake = $input->getOption('fake') ?? false;
+        file_put_contents(__DIR__.'/'.$fake ? 'map-fake' : 'map'.'.php', $raw);
     }
 
     private function getBizName($url)

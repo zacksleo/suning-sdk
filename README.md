@@ -112,14 +112,10 @@ try {
 php ./bin/suning map:generate
 ```
 
-### 生成 fake:generate 专用的 map.php 文件
+### 生成 fake:generate 用的 map-fake.php 文件
 
 ```bash
 php ./bin/suning map:generate --fake
-```
-
-```bash
-php ./bin/suning map:generate
 ```
 
 ### 生成用于代码补全提示的类

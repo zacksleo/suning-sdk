@@ -7,4 +7,5 @@ composer.lock
 .subsplit
 .php_cs.cache
 /bin/Command/map.php
+/bin/Command/map-fake.php
 /bin/Command/comment.txt

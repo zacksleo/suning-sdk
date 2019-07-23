@@ -27,7 +27,7 @@ class FakeCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output)
     {
         $output->writeln('正在读取 map...');
-        $map = require_once __DIR__.'/map.php';
+        $map = require_once __DIR__.'/map-fake.php';
         $keys = array_keys($map);
         $classes = [];
         foreach ($keys as $key) {
@@ -52,7 +52,7 @@ PHP;
                 foreach ($methods as $subMethods) {
                     foreach ($subMethods as $method=>$comment) {
                         $methodRaw .= <<<PHP
- * @method array {$method}(array \$params, \$files = []) {$comment}\n
+ * @method array {$method}(array \$params = null, \$files = []) {$comment}\n
 PHP;
                     }
                 }

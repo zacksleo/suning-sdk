@@ -57,7 +57,7 @@ class Api extends AbstractAPI
      * @param array $files
      * @return void
      */
-    public function request($method, $params, $files = [])
+    public function request($method, $params = null, $files = [])
     {
         if (is_array($method)) {
             $appMethod = $this->autoCompleteAppMethod(key($method));
